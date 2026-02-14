@@ -1,0 +1,40 @@
+body{
+    min-height: 200vh;
+    background: linear-gradient(turquoise, violet);
+    background-attachment: scroll;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+
+#navbar{
+    background-color: rgb(63, 58, 58);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: large; 
+    gap: 30px;
+}
+
+.aa{
+        display: block;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        padding: 10px;
+}
+#h1{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 100px;
+}
